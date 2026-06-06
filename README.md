@@ -14,7 +14,7 @@
   <a href="mailto:yassin.yasser2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/N4si">
+  <a href="https://github.com/yassinyasser200">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -151,16 +151,16 @@ class YassinYasser:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N4si&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4si&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yassinyasser200&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinyasser200&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N4si&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinyasser200&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N4si&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yassinyasser200&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 <br/>
@@ -195,12 +195,12 @@ class YassinYasser:
 
 <!-- SNAKE ANIMATION -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/N4si/N4si/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/yassinyasser200/yassinyasser200/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=N4si&label=Profile+Views&color=000000&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yassinyasser200&label=Profile+Views&color=000000&style=flat" alt="Profile views" />
 </p>
